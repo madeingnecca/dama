@@ -1,0 +1,50 @@
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+1-	Come si gioca:
+	Per selezionare il proprio pezzo basta cliccare una 
+	sola volta sulla pedina desiderata. Per evitare
+	fastidi si e' deciso di poter cambiare la pedina 
+	selezionata, deselezionandola, ripetendo la procedura 
+	di cui sopra. Per muovere il pezzo basta cliccare nella
+	casella prescelta e il programma verificherà che sia
+	una mossa corretta.
+
+
+2- 	Le pedine possono muoversi di una posizione sola,in 
+	diagonale e in avanti. La dama ( o damone ) puo' invece 
+	muoversi anche indietro, ma sempre di una sola posizione.
+
+3-	Una pedina che raggiunge la fine del campo avversario 
+	diventa dama e viene gestita dalle regole descritte prima. 
+
+4-	Le prese sono obbligatorie. Il programma gestisce questa
+	regola permettendo al giocatore di selezionale il pezzo
+	desiderato, ma permettendo solo a quelle che possono mangiare
+	di agire. ( quindi il giocatore dovrà deselezionare la pedina 
+	per poi selezionare una di quelle che possono mangiare ).
+	Le pedine mangiano altre pedine normali e solo in avanti in
+	diagonale. 
+	Le dame invece possono mangiare anche indietro e sia pedine 
+	normali che altre dame.
+	
+5-	Una pedina che si trova alla fine della presa di nuovo in 
+	diagonale con una pedina avversaria mangia ancora. 
+	( rispettando le regole descritte prima )
+	Se alla fine della mossa è ancora
+	nella posizione di mangiarne un'altra la procedura si ripete.
+	Il programma avverte il giocatore segnalando la pedina che può 
+	mangiare di nuovo. L'utente si limita a cliccare con il mouse nella
+	pedina vuota desiderata. La mangiata multilpla e' obbligatoria .
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+
+
+
+
+
